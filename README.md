@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... JavaScript and Vue.JS 
 
-
+![alt text](https://www.codewars.com/users/3vincent/badges/micro "Codewars")
