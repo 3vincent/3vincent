@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![alt text](https://www.codewars.com/users/3vincent/badges/micro "Codewars")
+
 -->
 
 - 🌱 I’m currently learning ... JavaScript and Vue.JS 
 
-![alt text](https://www.codewars.com/users/3vincent/badges/micro "Codewars")
+
