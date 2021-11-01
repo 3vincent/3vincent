@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Ben, these are some things that I do and like
 
 
 <!--
@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 - 🌱 JavaScript, Vue.js, node.js, Express.js <3 
 - 🌳 Full Stack Software Engineer
 - 🌀 Background in social sciences and recycling PV-Modules
+- 🌈 Linux, Command Line, bash, Debian, macOS and Apple Hardware
 
 
