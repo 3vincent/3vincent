@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning ... JavaScript and Vue.JS 
+- 🌱 JavaScript, Vue.js, node.js, Express.js <3 
+- 🌳 Full Stack Software Engineer
+- 🌀 Background in social sciences and recycling PV-Modules
 
 
