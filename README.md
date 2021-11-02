@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🌀 Background in social sciences and recycling PV-Modules
 - 🌈 Linux, Command Line, bash, Debian, macOS and Apple Hardware
 
-
+🧗‍♂️ Let's solve some Katas together https://www.codewars.com/users/3vincent
