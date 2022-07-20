@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - 🌈 Linux, Command Line, bash, Debian, macOS and Apple Hardware
 
 🧗‍♂️ Let's solve some Katas together https://www.codewars.com/users/3vincent
+
+[ ![Find me on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/ben-sukstorf/)
+
+
+
