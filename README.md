@@ -1,10 +1,11 @@
 ### Hi there 👋
 I am Ben, these are some things that I do and like
 
-- 🌱 JavaScript, TypeScript, Vue.js, Nuxt, React, MongoDB Atlas, node.js, Express.js <3 
+- 🌱 JavaScript/TypeScript, Vue.js, Nuxt, React, MongoDB Atlas, node.js, Express.js <3
 - 🌳 Full Stack Software Engineer
 - 🌀 Background in social sciences and Photovoltaic recycling
 - 🌈 Linux, Command Line, bash, Debian, macOS and Apple Hardware
+- 🙌 Slack, Around, Miro, Trello
 
 🧗‍♂️ Sometimes I solve Katas https://www.codewars.com/users/3vincent
 
