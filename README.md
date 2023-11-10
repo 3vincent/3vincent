@@ -5,7 +5,7 @@ I am Ben, these are some things that I do and like
 - 🌳 Full Stack Software Engineer
 - 🌀 Background in social sciences and Photovoltaic recycling
 - 🌈 Linux, Command Line, bash, Debian, macOS and Apple Hardware
-- 🙌 Slack, Around, Miro, Trello
+- 🙌 Slack, Around, Miro, Trello, Notion
 
 🧗‍♂️ Sometimes I solve Katas https://www.codewars.com/users/3vincent
 
